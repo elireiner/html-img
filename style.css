@@ -21,4 +21,10 @@ header > h1 {
     margin: 0;
     color: rgb(223, 230, 223);
 }
+.title {
+    margin: 0
+} 
+.title, .img-div {
 
+   background-color: #0B9ED9
+}
